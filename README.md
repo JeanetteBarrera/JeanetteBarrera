@@ -1,10 +1,15 @@
-## Hi there, I’m Jeane 👋
+## Hi there! 👋 I'm Jeanette, a Bioengineering student with a strong interest in Data Science.
 
-- 💻 I’m a programmer from Argentina, passionate about Data Science, with a special focus on statistics and machine learning.
-- 🌱 I am continuously learning and, in my free time, I deepen my knowledge of AWS to optimize cloud projects.
-- 🔬 My interest goes beyond just data analysis; I’m also focused on prediction, algorithm development, and creating models that help us interpret patterns, identify relationships, and extract valuable insights from large datasets.
-- 🧬 I am passionate about bioinformatics, genetics, and the study of nature, fields where data analysis can have a significant impact on improving our understanding of biology, health, and the environment.
-- 🌍 I believe data has the power to transform the world, and my goal is to decipher that information to better understand the world we live in and contribute to a better future.
+I’m passionate about analyzing data to understand real-world problems and find evidence-based solutions. Currently, I’m specializing in data analysis, machine learning, and cloud computing fundamentals, and applying these skills in practical projects that help me keep learning and growing in the field.
+
+In addition, I have experience in full-stack web development, which allows me to create tools that make data more accessible and visual. This combination helps me communicate results more effectively and make a greater impact with what I analyze.
+
+🌱 My current focus:
+- Data Science with Python and R
+- AWS Fundamentals (AWS Cloud Architecting)
+- Contributing to open-source projects with social or scientific impact
+
+📫 I’m open to collaborating, learning, and taking on challenges that help me continue growing in the world of data.
  
 <div align="center">
   <a href="https://github.com/JeanetteBarrera">
